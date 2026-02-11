@@ -1,0 +1,5 @@
+{
+  "MISSION": "Detect and classify risk early to support human decision-making.",
+  "CONSTRAINTS": "No advice. No urgency verbs. Classification only.",
+  "FORMAT": "Classification → Cause → Next Action"
+}

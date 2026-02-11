@@ -1,0 +1,30 @@
+# DriftProof Risk Engine - Git Ignore
+
+# Generated files
+final_prompt.txt
+*.pyc
+__pycache__/
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test outputs
+test_output.txt
+drift_results/
